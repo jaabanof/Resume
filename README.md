@@ -1,3 +1,3 @@
 # Resume
-Curriculum vitae
-Mi planilla para crear un Curriculum vitae
+</br>
+Mi planilla para crear un <strong>Curriculum vitae</strong>.
